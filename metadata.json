@@ -1,0 +1,6 @@
+{
+  "name": "ระบบยา อำเภอสายบุรี - ขนาดยาในเด็ก (Pediatric Dose Calculator)",
+  "description": "ระบบคำนวณและคู่มือขนาดยาในเด็ก เครือข่ายระบบยา อำเภอสายบุรี สำหรับแพทย์ เภสัชกร พยาบาล และบุคลากรทางการแพทย์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
